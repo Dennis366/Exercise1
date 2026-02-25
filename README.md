@@ -15,8 +15,6 @@ Input validation ensures that only 'y' or 'n' is accepted.
 
 
 
-
-
 1. The program starts inside the Main method.
 2. A do-while loop ensures the program runs at least once.
 3. The user enters two sentences using Console.ReadLine().
@@ -29,6 +27,9 @@ Input validation ensures that only 'y' or 'n' is accepted.
 
 
 **example sentence**
+
+
+
 Enter the first sentence: I love pizza
 Enter the second sentence: Pizza is great
 The substring exists in the string.
