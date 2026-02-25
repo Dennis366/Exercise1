@@ -31,6 +31,9 @@ Input validation ensures that only 'y' or 'n' is accepted.
 
 
 Enter the first sentence: I love pizza
+
 Enter the second sentence: Pizza is great
+
 The substring exists in the string.
+
 Do you want to continue? (y/n): y
