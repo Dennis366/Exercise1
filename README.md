@@ -39,7 +39,7 @@ Input validation ensures that only 'y' or 'n' is accepted.
 9. The program asks whether to continue (y/n) with input validation.
 
 
-**example sentence**
+**Example sentence**
 
 
 
